@@ -1,0 +1,11 @@
+<RCC>
+  <qresource prefix="newPrefix">
+    <file>../ui/icons/app_icon.ico</file>
+    <file>../ui/icons/content_copy_white_24dp.svg</file>
+    <file>../ui/icons/lock_white_24dp.svg</file>
+    <file>../ui/icons/lock-32.ico</file>
+    <file>../ui/icons/refresh_white_24dp.svg</file>
+    <file>../ui/icons/visibility_off_white_24dp.svg</file>
+    <file>../ui/icons/visibility_white_24dp.svg</file>
+  </qresource>
+</RCC>
